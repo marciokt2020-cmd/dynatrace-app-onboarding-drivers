@@ -1,0 +1,11 @@
+{
+  "$schema": "./.dt-app/app.config.schema.json",
+  "environmentUrl": "https://wkf10640.apps.dynatrace.com/",
+  "app": {
+    "name": "onboarding-drivers",
+    "version": "0.0.0",
+    "description": "Painel global de onboarding de motoristas e emissão simulada do cartão Jedyna",
+    "id": "my.onboarding.drivers",
+    "scopes": []
+  }
+}
